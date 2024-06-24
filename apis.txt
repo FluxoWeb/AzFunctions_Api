@@ -7,4 +7,4 @@
     params_api_contratos = {"$filter": "Status eq 10"}
 
     # Incluir el token de autorización en la llamada a la API 4
-    headers_api4 = {"Authorization": "TQsWRNGU6LHOKBCvco4cf4Op2Q52XZ2PuxUbWjJE9IEy3GO"}
+    headers_api4 = {"Authorization": ""}
